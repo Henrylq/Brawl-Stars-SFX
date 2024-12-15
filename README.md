@@ -1,3 +1,6 @@
+# Archived!
+This repository will not be updated. If you are looking for SFX files or other assets, please check the [official Fankit](https://fankit.supercell.com/)
+
 # Brawl Stars SFX
 These [Brawl Stars](https://supercell.com/en/games/brawlstars/) sound effects have been extracted from the game files and sorted.
 
